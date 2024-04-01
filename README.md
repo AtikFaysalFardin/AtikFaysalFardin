@@ -1,5 +1,5 @@
  Hiya, I’m A.F[F].
- I'm interested in Aerospace Engg. & Rocketry.
+ And I'm interested in Aerospace Engg. & Rocketry.
 
 <!---
 AtikFaysalFardin/AtikFaysalFardin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
